@@ -1,0 +1,22 @@
+{
+  "name": "pr-story",
+  "version": "0.1.0",
+  "description": "Reviewer-friendly summaries for git diffs.",
+  "type": "module",
+  "bin": {
+    "pr-story": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node src/cli.js --help"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "open-source"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
