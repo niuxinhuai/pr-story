@@ -1,5 +1,7 @@
 # pr-story
 
+[![CI](https://github.com/niuxinhuai/pr-story/actions/workflows/ci.yml/badge.svg)](https://github.com/niuxinhuai/pr-story/actions/workflows/ci.yml)
+
 Turn an unstructured git diff into a concise PR story with risk notes and verification suggestions.
 
 把零散的 git diff 转成适合 reviewer 快速阅读的 PR 导读、风险提示和验证建议。
